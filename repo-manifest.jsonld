@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sqltable/commit/24f68db5624297cf768ddba457088b709a8b3313",
       "git:hexsha": "24f68db5624297cf768ddba457088b709a8b3313",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.1.1"
     },
     {
